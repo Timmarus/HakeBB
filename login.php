@@ -6,7 +6,7 @@
 ?>
 <?php
 session_start();
-include_once("config.php");
+require_once("config.class.php");
 ?>
 
 
